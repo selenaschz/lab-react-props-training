@@ -1,0 +1,12 @@
+.credit-card {
+    max-width: 300px;
+  }
+  
+  .credit-card img {
+    max-height: 25px;
+    max-width: 100%;
+}
+
+.credit-card .fs-xs {
+    font-size: 11px;
+  }
